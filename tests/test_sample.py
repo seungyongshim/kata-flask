@@ -1,4 +1,4 @@
-from src.sample import add, minus
+from sample import add, minus
 
 
 def test_add():
